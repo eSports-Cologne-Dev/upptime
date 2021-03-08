@@ -4,10 +4,10 @@
     "url": "https://esport.cologne",
     "icon": "https://favicons.githubusercontent.com/esport.cologne",
     "slug": "e-sports-cologne",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2131,
@@ -15,7 +15,9 @@
     "timeWeek": 1506,
     "timeMonth": 1673,
     "timeYear": 2131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-08": 1
+    }
   },
   {
     "name": "ECO Drive",
@@ -40,7 +42,7 @@
     "url": "$ECO_INTERN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "eco-intern",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 839,
     "timeMonth": 904,
     "timeYear": 969,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-08": 0
+    }
   }
 ]
