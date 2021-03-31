@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2118,
-    "timeDay": 1293,
-    "timeWeek": 1840,
-    "timeMonth": 1966,
-    "timeYear": 2118,
+    "time": 2105,
+    "timeDay": 943,
+    "timeWeek": 1844,
+    "timeMonth": 1935,
+    "timeYear": 2105,
     "dailyMinutesDown": {
       "2021-03-08": 2
     }
@@ -28,16 +28,14 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1067,
-    "timeDay": 1244,
-    "timeWeek": 1034,
-    "timeMonth": 1000,
-    "timeYear": 1067,
-    "dailyMinutesDown": {
-      "2021-03-08": 4
-    }
+    "time": 1065,
+    "timeDay": 862,
+    "timeWeek": 1032,
+    "timeMonth": 996,
+    "timeYear": 1065,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ECO Intern",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 972,
-    "timeDay": 1101,
-    "timeWeek": 955,
-    "timeMonth": 949,
-    "timeYear": 972,
+    "time": 970,
+    "timeDay": 810,
+    "timeWeek": 965,
+    "timeMonth": 945,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2021-03-08": 2
     }
