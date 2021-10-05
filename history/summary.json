@@ -24,18 +24,20 @@
     "url": "$ECO_DRIVE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "eco-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1103,
-    "timeDay": 1231,
-    "timeWeek": 1288,
-    "timeMonth": 1192,
-    "timeYear": 1103,
-    "dailyMinutesDown": {}
+    "time": 1102,
+    "timeDay": 1077,
+    "timeWeek": 1242,
+    "timeMonth": 1183,
+    "timeYear": 1102,
+    "dailyMinutesDown": {
+      "2021-10-05": 0
+    }
   },
   {
     "name": "ECO Intern",
