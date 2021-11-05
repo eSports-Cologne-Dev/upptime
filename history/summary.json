@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1784,
-    "timeDay": 2009,
-    "timeWeek": 1844,
-    "timeMonth": 1770,
-    "timeYear": 1784,
-    "dailyMinutesDown": {
-      "2021-03-08": 2
-    }
+    "time": 1785,
+    "timeDay": 2032,
+    "timeWeek": 1823,
+    "timeMonth": 1798,
+    "timeYear": 1785,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ECO Drive",
@@ -28,16 +26,14 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1128,
-    "timeDay": 1367,
-    "timeWeek": 1294,
-    "timeMonth": 1338,
-    "timeYear": 1128,
-    "dailyMinutesDown": {
-      "2021-10-05": 11
-    }
+    "time": 1130,
+    "timeDay": 1479,
+    "timeWeek": 1285,
+    "timeMonth": 1346,
+    "timeYear": 1130,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ECO Intern",
@@ -50,13 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 968,
-    "timeDay": 984,
-    "timeWeek": 938,
-    "timeMonth": 994,
-    "timeYear": 968,
-    "dailyMinutesDown": {
-      "2021-03-08": 2
-    }
+    "time": 971,
+    "timeDay": 1600,
+    "timeWeek": 1005,
+    "timeMonth": 1014,
+    "timeYear": 971,
+    "dailyMinutesDown": {}
   }
 ]
