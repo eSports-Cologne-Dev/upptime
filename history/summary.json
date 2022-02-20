@@ -4,10 +4,10 @@
     "url": "https://esport.cologne",
     "icon": "https://favicons.githubusercontent.com/esport.cologne",
     "slug": "e-sports-cologne",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1758,
@@ -16,6 +16,7 @@
     "timeMonth": 1599,
     "timeYear": 1695,
     "dailyMinutesDown": {
+      "2022-02-20": 1,
       "2021-11-22": 19,
       "2021-11-19": 18,
       "2021-11-16": 15
@@ -26,10 +27,10 @@
     "url": "$ECO_DRIVE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "eco-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1179,
@@ -37,16 +38,18 @@
     "timeWeek": 1418,
     "timeMonth": 1344,
     "timeYear": 1187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-20": 1
+    }
   },
   {
     "name": "ECO Intern",
     "url": "$ECO_INTERN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "eco-intern",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,6 +58,8 @@
     "timeWeek": 1084,
     "timeMonth": 1024,
     "timeYear": 974,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
   }
 ]
