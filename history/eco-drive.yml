@@ -1,7 +1,7 @@
 url: $ECO_DRIVE_URL
-status: down
-code: 500
-responseTime: 771
-lastUpdated: 2023-07-12T13:32:21.646Z
+status: up
+code: 200
+responseTime: 1645
+lastUpdated: 2023-07-12T20:45:15.637Z
 startTime: Sat Jan 09 2021 08:59:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
