@@ -4,18 +4,19 @@
     "url": "https://esport.cologne",
     "icon": "https://icons.duckduckgo.com/ip3/esport.cologne.ico",
     "slug": "e-sports-cologne",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
-    "time": 1348,
+    "time": 1346,
     "timeDay": 1195,
     "timeWeek": 1345,
     "timeMonth": 1290,
     "timeYear": 1217,
     "dailyMinutesDown": {
+      "2024-10-12": 1,
       "2024-10-03": 17,
       "2024-09-02": 404
     }
@@ -25,18 +26,19 @@
     "url": "$ECO_DRIVE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eco-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1208,
+    "time": 1209,
     "timeDay": 1730,
     "timeWeek": 1389,
     "timeMonth": 1291,
     "timeYear": 1189,
     "dailyMinutesDown": {
+      "2024-10-12": 1,
       "2024-09-02": 403
     }
   },
@@ -45,9 +47,9 @@
     "url": "$ECO_INTERN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eco-intern",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
@@ -57,6 +59,7 @@
     "timeMonth": 993,
     "timeYear": 933,
     "dailyMinutesDown": {
+      "2024-10-12": 0,
       "2024-10-03": 16,
       "2024-09-02": 403
     }
