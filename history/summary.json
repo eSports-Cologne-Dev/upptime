@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/esport.cologne.ico",
     "slug": "e-sports-cologne",
     "status": "down",
-    "uptime": "80.86%",
+    "uptime": "80.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "5.66%",
-    "time": 658,
-    "timeDay": 406,
-    "timeWeek": 356,
+    "uptimeYear": "5.39%",
+    "time": 656,
+    "timeDay": 209,
+    "timeWeek": 354,
     "timeMonth": 366,
-    "timeYear": 458,
+    "timeYear": 457,
     "dailyMinutesDown": {
-      "2025-12-17": 72,
+      "2025-12-18": 73,
+      "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -361,8 +362,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 247,
-      "2024-12-18": 168
+      "2025-01-06": 247
     }
   },
   {
@@ -371,18 +371,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eco-drive",
     "status": "down",
-    "uptime": "80.70%",
+    "uptime": "80.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "5.65%",
-    "time": 502,
-    "timeDay": 104,
-    "timeWeek": 125,
-    "timeMonth": 158,
-    "timeYear": 254,
+    "uptimeYear": "5.37%",
+    "time": 499,
+    "timeDay": 173,
+    "timeWeek": 132,
+    "timeMonth": 161,
+    "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-12-17": 72,
+      "2025-12-18": 73,
+      "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -727,8 +728,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 247,
-      "2024-12-18": 229
+      "2025-01-06": 247
     }
   },
   {
@@ -737,18 +737,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eco-intern",
     "status": "down",
-    "uptime": "80.81%",
+    "uptime": "80.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "5.64%",
-    "time": 405,
-    "timeDay": 93,
-    "timeWeek": 124,
-    "timeMonth": 153,
-    "timeYear": 219,
+    "uptimeYear": "5.36%",
+    "time": 403,
+    "timeDay": 127,
+    "timeWeek": 113,
+    "timeMonth": 154,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-12-17": 72,
+      "2025-12-18": 73,
+      "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1093,8 +1094,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 247,
-      "2024-12-18": 294
+      "2025-01-06": 247
     }
   }
 ]
