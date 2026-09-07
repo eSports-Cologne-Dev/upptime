@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/esport.cologne.ico",
     "slug": "e-sports-cologne",
     "status": "down",
-    "uptime": "70.57%",
+    "uptime": "70.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 276,
-    "timeDay": 35,
+    "timeDay": 54,
     "timeWeek": 48,
-    "timeMonth": 65,
+    "timeMonth": 66,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2026-09-06": 151,
+      "2026-09-07": 148,
+      "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -379,8 +380,7 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
-      "2025-09-07": 1440
+      "2025-09-08": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eco-drive",
     "status": "down",
-    "uptime": "70.43%",
+    "uptime": "70.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 159,
-    "timeDay": 48,
-    "timeWeek": 51,
-    "timeMonth": 70,
+    "timeDay": 75,
+    "timeWeek": 54,
+    "timeMonth": 71,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-09-06": 151,
+      "2026-09-07": 148,
+      "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -763,8 +764,7 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
-      "2025-09-07": 1440
+      "2025-09-08": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eco-intern",
     "status": "down",
-    "uptime": "70.52%",
+    "uptime": "70.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 145,
-    "timeDay": 34,
-    "timeWeek": 55,
-    "timeMonth": 95,
-    "timeYear": 133,
+    "time": 144,
+    "timeDay": 57,
+    "timeWeek": 53,
+    "timeMonth": 96,
+    "timeYear": 132,
     "dailyMinutesDown": {
-      "2026-09-06": 151,
+      "2026-09-07": 148,
+      "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -1147,8 +1148,7 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
-      "2025-09-07": 1440
+      "2025-09-08": 1440
     }
   }
 ]
