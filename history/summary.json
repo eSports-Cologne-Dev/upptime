@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/esport.cologne.ico",
     "slug": "e-sports-cologne",
     "status": "down",
-    "uptime": "69.52%",
+    "uptime": "69.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 260,
-    "timeDay": 57,
-    "timeWeek": 66,
-    "timeMonth": 88,
-    "timeYear": 224,
+    "time": 259,
+    "timeDay": 48,
+    "timeWeek": 67,
+    "timeMonth": 87,
+    "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-10-07": 233,
+      "2026-10-08": 246,
+      "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
@@ -379,8 +380,7 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
-      "2025-10-08": 1440
+      "2025-10-09": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eco-drive",
     "status": "down",
-    "uptime": "69.38%",
+    "uptime": "69.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 145,
-    "timeDay": 51,
-    "timeWeek": 62,
-    "timeMonth": 94,
-    "timeYear": 127,
+    "time": 144,
+    "timeDay": 58,
+    "timeWeek": 61,
+    "timeMonth": 93,
+    "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-10-07": 233,
+      "2026-10-08": 247,
+      "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
@@ -763,8 +764,7 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
-      "2025-10-08": 1440
+      "2025-10-09": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eco-intern",
     "status": "down",
-    "uptime": "69.48%",
+    "uptime": "69.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 140,
-    "timeDay": 44,
-    "timeWeek": 74,
-    "timeMonth": 89,
+    "timeDay": 53,
+    "timeWeek": 76,
+    "timeMonth": 87,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2026-10-07": 233,
+      "2026-10-08": 247,
+      "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
@@ -1147,8 +1148,7 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
-      "2025-10-08": 1440
+      "2025-10-09": 1440
     }
   }
 ]
